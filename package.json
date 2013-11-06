@@ -1,0 +1,21 @@
+{
+  "name": "undo",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "share": "git://github.com/Dignifiedquire/ShareJS#browserify",
+    "codemirror": "~3.19.0",
+    "browserchannel": "~1.0.8",
+    "livedb": "~0.2.6",
+    "connect-browserify": "~0.7.0",
+    "connect": "~2.11.0",
+    "livedb-mongo": "~0.2.5",
+    "share-codemirror": "0.0.4"
+  }
+}
