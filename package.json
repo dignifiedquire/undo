@@ -16,6 +16,6 @@
     "connect-browserify": "~0.7.0",
     "connect": "~2.11.0",
     "livedb-mongo": "~0.2.5",
-    "share-codemirror": "0.0.4"
+    "share-codemirror": "git://github.com/Dignifiedquire/share-codemirror#undo"
   }
 }
