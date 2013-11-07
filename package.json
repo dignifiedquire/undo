@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "share": "git://github.com/Dignifiedquire/ShareJS#browserify",
-    "codemirror": "~3.19.0",
+    "codemirror": "git://github.com/Dignifiedquire/CodeMirror#undo",
     "browserchannel": "~1.0.8",
     "livedb": "~0.2.6",
     "connect-browserify": "~0.7.0",
